@@ -1,0 +1,13 @@
+$primary: #fa5e97;
+$link: #fa5e97;
+
+@import "theme/_main";
+
+.hero_title {
+  font-weight: 800;
+  font-size: 4rem;
+}
+
+.heroArticleHeader {
+  max-height: calc(80vh - 4.25rem);
+}
