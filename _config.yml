@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: gbif/ssg-theme-algae@11288614ef5a7049cee8456f465852815088c6c1
+remote_theme: gbif/ssg-theme-algae
 
 algae:
   logo: /assets/images/fungi.svg
@@ -70,3 +70,9 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
