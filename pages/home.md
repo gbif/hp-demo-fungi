@@ -12,7 +12,7 @@ cta:
 fullHeightx: true
 permalink: /
 structure:
-  - type: hero
+  - type: floating-hero
   - data: home.cardExample
     type: features
   - data: home.productExample
