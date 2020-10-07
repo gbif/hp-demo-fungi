@@ -39,6 +39,7 @@ remote_theme: gbif/ssg-theme-algae
 
 algae:
   logo: /assets/images/fungi.svg
+  archive_permalink: /events/  
   style:
     colors:
       primary: "#fa5e97"

@@ -13,7 +13,7 @@ cardExample:
       imageLicense: |
         *Pithya vulgaris* Fuckel. Photo by Ken A. Alminde. [gbif.org](https://www.gbif.org/occurrence/2542589342)
       url: /about
-      categories: [cat, dog]
+      categories: [jekyll, climate]
     - preTitle: eDNA  # optional
       title: Abundantly light green     # required
       description: |      # required

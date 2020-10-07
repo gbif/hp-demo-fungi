@@ -1,8 +1,7 @@
 ---
-title: Antaeo Nereis mollibat nocebant nunc amantem longi
+title: Who we are
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-permalink: /about
-lang-ref: about
+permalink: /who-we-are
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10073843_rk9urr9kU.JPG
 imageLicense: |
   *Pithya vulgaris* Fuckel. Photo by Ken A. Alminde. [gbif.org](https://www.gbif.org/occurrence/2542589342)

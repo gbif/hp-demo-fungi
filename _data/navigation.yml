@@ -1,18 +1,22 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about/
+- text: Who we are
+  href: /who-we-are/
 - text: Data
-  href: /data/
-- text: Activities
   menu: # Dropdown menu (one level deep only)
-  - text: Publishing
-    href: /there-is-no-page-for-this-permalink/
-  - text: Community building
-    href: /about/
+  - text: All occurrences
+    href: /data/?view=gallery
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Tools" # Title for block of menu items
-  - text: Report findings
-    href: https://www.inaturalist.org/
-- text: News
-  href: /news/
+  - text: "Phyla" # Title for block of menu items
+  - text: Ascomycota
+    href: /data/?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbOTVdfX0%3D&view=gallery
+  - text: Basidiomycota
+    href: /data/?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzRdfX0%3D&view=gallery
+  - text: Chytridiomycota
+    href: /data/?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbOTRdfX0%3D&view=gallery
+  - text: Glomeromycota
+    href: /data/?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMThdfX0%3D&view=gallery
+  - text: Zygomycota
+    href: /data/?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbOTZdfX0%3D&view=gallery
+- text: Events
+  href: /events/
