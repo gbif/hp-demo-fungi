@@ -3,9 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Partnere
     links:
-    - text: Name of project partner 1
+    - text: Navn på projektpartner
       href: http://example.com
     - text: Name of project partner 2
       href: http://example.com
