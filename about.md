@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Hello world
+title: Welcome to the hosted portals pilot phase
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
