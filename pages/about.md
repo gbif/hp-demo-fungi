@@ -12,6 +12,8 @@ mobileToc: false
 
 ## Procris quippe mentior urbes ubi
 
+Test conflict edit.
+
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
 pontum ut** avus quamquam de trabes vestemque cruorem tremor.
@@ -23,8 +25,6 @@ neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
 tollebat altius](http://virgineusque.net/est.html).
 
 ## Quam ex te videt
-
-Cause conflict.
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
 cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
