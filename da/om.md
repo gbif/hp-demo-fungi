@@ -1,13 +1,11 @@
 ---
-title: Who we are
+lang-ref: about
+title: Om
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-permalink: /who-we-are
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10073843_rk9urr9kU.JPG
+background: /assets/images/moss.jpg
 imageLicense: |
-  *Pithya vulgaris* Fuckel. Photo by Ken A. Alminde. [gbif.org](https://www.gbif.org/occurrence/2542589342)
-parallax: true
-toc: false
-mobileToc: false
+  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+height: 70vh
 ---
 
 ## Procris quippe mentior urbes ubi
@@ -58,6 +56,30 @@ dum: fateor profugus renovatus exhalantem.
 Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
 genitas trementi hoc bina tulisti! Tuae at aequor!
 
+### Turbatque promittat memorque
+
+Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
+lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
+dum: fateor profugus renovatus exhalantem.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| tables        | are useful    |    $1 |
+
+--------
+
+### In frustra albus
+
+Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
+genitas trementi hoc bina tulisti! Tuae at aequor!
+
+* Level 1 a
+* Level 1 b
+  * Level 2 a
+  * Level 2 b
+
 ## Est mea videndo
 
 Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
@@ -65,6 +87,8 @@ Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
 Honor praemia veniunt violavit tu
 [aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
 dependent artisque audacem habuissem, et est rebus, sed?
+
+[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
 
 Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
 tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
