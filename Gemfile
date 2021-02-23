@@ -15,9 +15,10 @@ gem "jekyll-remote-theme"
 
 
 # If you have any plugins, put them here!
-# group :jekyll_plugins do
-#  gem "jekyll-feed", "~> 0.12"
-# end
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor" # https://bundler.io/guides/git.html
+end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

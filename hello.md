@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: heroImage
 title: Welcome
-background: https://via.placeholder.com/1000x400
+background: https://via.placeholder.com/3000x1000
 description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
 This is my first table
